@@ -1,0 +1,7 @@
+file column name,table column name,data type,key
+Faculty ID,faculty_id,varchar(10)
+First Name,first_name,varchar(17)
+Last Name,last_name,varchar(20)
+Current Academic Rank,current_academic_rank,varchar(30)
+Position Title,position_title,varchar(36)
+Type,type,varchar(4)
